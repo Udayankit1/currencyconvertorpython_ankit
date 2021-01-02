@@ -1,0 +1,55 @@
+#This data is taken from https://www.x-rates.com/table/?from=USD&amount=1.
+#You can add this data in .txt format on your vs code and call it in your code .
+Argentine Peso	84.084975	0.011893
+Australian Dollar	1.295451	0.771932
+Bahraini Dinar	0.376000	2.659574
+Botswana Pula	10.790500	0.092674
+Brazilian Real	5.193999	0.192530
+British Pound	0.731422	1.367200
+Bruneian Dollar	1.321700	0.756601
+Bulgarian Lev	1.598041	0.625766
+Canadian Dollar	1.273650	0.785145
+Chilean Peso	710.498756	0.001407
+Chinese Yuan Renminbi	6.528000	0.153186
+Colombian Peso	3420.797534	0.000292
+Croatian Kuna	6.179398	0.161828
+Czech Koruna	21.469986	0.046577
+Danish Krone	6.081799	0.164425
+Emirati Dirham	3.672500	0.272294
+Euro	0.817065	1.223892
+Hong Kong Dollar	7.753949	0.128967
+Hungarian Forint	296.919834	0.003368
+Icelandic Krona	127.609427	0.007836
+Indian Rupee	73.054471	0.013688
+Indonesian Rupiah	13920.496876	0.000072
+Iranian Rial	42026.300905	0.000024
+Israeli Shekel	3.210668	0.311462
+Japanese Yen	103.225965	0.009687
+Kazakhstani Tenge	421.358582	0.002373
+Kuwaiti Dinar	0.304149	3.287861
+Libyan Dinar	1.338746	0.746968
+Malaysian Ringgit	4.022498	0.248602
+Mauritian Rupee	39.684715	0.025199
+Mexican Peso	19.920940	0.050198
+Nepalese Rupee	117.435062	0.008515
+New Zealand Dollar	1.388214	0.720350
+Norwegian Krone	8.559416	0.116830
+Omani Rial	0.384500	2.600780
+Pakistani Rupee	160.669982	0.006224
+Philippine Peso	48.019772	0.020825
+Polish Zloty	3.733603	0.267838
+Qatari Riyal	3.640000	0.274725
+Romanian New Leu	3.982498	0.251099
+Russian Ruble	74.023504	0.013509
+Saudi Arabian Riyal	3.750000	0.266667
+Singapore Dollar	1.321700	0.756601
+South African Rand	14.687459	0.068085
+South Korean Won	1085.713287	0.000921
+Sri Lankan Rupee	185.249972	0.005398
+Swedish Krona	8.209904	0.121804
+Swiss Franc	0.883866	1.131394
+Taiwan New Dollar	28.089988	0.035600
+Thai Baht	29.999974	0.033333
+Trinidadian Dollar	6.773564	0.147633
+Turkish Lira	7.439199	0.134423
+Venezuelan Bolivar	9.987500	0.100125
